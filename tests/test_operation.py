@@ -5,7 +5,7 @@ def test_add():
     assert add(2,5)==7
 
 def test_sub():
-    assert sub(4,2)==-2
+    assert sub(4,2)==2
     assert sub(5,2)==3
 
 def test_mul():
